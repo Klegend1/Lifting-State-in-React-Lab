@@ -1,0 +1,4 @@
+figured out one of my blockers for import when you are dealing with it in components 
+"./assets/components/AvailableIngredients.jsx"; "./assets/components/BurgerStack.jsx"; but instaed I was putting BurgerStack.jsx
+
+
